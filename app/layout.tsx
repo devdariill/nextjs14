@@ -1,3 +1,4 @@
+import "@/app/ui/globals.css";
 import { monserrat } from "./ui/fonts";
 
 export default function RootLayout({
